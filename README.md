@@ -1,7 +1,7 @@
 # Predicting-House-Prices-In-Bengaluru
  Hackathon organized by Machine Hack
 
-### competition & Data source:
+### Competition & Data source:
 [https://www.machinehack.com/course/predicting-house-prices-in-bengaluru/](https://www.machinehack.com/course/predicting-house-prices-in-bengaluru/)
 
 ### Data:
